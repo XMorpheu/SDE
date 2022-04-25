@@ -1,0 +1,169 @@
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csproj.GenerateResource.Cache
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Users\Robson\Desktop\projeto tcc\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\SDE-_Software-2014-03-16\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csprojResolveAssemblyReference.cache
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+G:\Arquivos\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+G:\Arquivos\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+E:\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csproj.GenerateResource.Cache
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.csproj.GenerateResource.Cache
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Users\Robson\Desktop\projeto tcc Teste\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosCliente.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEntrega.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmLogin.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosFuncionarios.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioVeiculos.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosCliente.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosFuncionarios.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioVeiculos.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEntrega.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmLogin.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JANE\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosCliente.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosFuncionarios.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioVeiculos.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEntrega.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmLogin.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioEntrega.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioEntrega.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosCliente.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosFuncionarios.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioVeiculos.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEntrega.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmLogin.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Arquivos\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+F:\Arquivos\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioEntrega.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosCliente.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosFuncionarios.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioVeiculos.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEntrega.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+G:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmLogin.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioEntrega.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaCli.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaEntre.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaFunc.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.exe
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\bin\Debug\SDE.pdb
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioEntrega.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosCliente.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatoriosFuncionarios.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FiltroRelatorioVeiculos.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaCli.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaEntre.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaFunc.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEntrega.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCargo.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmCliente.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmEstado.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmFuncionario.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmLogin.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmPrincipal.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmVeiculo.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaCli.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaEntre.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaFunc.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaCli.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaEntre.resources
+F:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.FrmConsultaFunc.resources
+C:\Users\Fabio\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Splash.resources
+C:\Users\Robson\Desktop\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.Splash.resources
+H:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.exe
+H:\Arquivos\SDE- Software\SDE\SDE\obj\x86\Debug\SDE.pdb
